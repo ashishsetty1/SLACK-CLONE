@@ -1,0 +1,8 @@
+frontend/node_modules/
+backend/venv/
+*.db
+desktop.ini
+.env
+frontend/.env
+__pycache__/
+*.pyc
