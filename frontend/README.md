@@ -22,8 +22,12 @@ A real-time full-stack chat application inspired by Slack.
 
 ## Running Locally
 
+## Screenshots
+- Open screenshots folder to see images of the working slack clone
+
 ### Backend
 ```bash
 cd backend
 .\venv\Scripts\activate
 uvicorn app.main:app --reload
+
